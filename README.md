@@ -13,4 +13,4 @@ Run the server with `node server.js` command
 
 ###Step3
 
-Open your browser and download file via the location `http://localhost:9090/Sample.txt`(*Provided*) or replace with `Sample.txt` with your own file name.
+Open your browser and download file via the location `http://localhost:9090/Sample.txt`(*Provided*) or replace the `Sample.txt` with your own file name.
